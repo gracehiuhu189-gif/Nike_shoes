@@ -1,0 +1,17 @@
+/* style.css – external styles for the CSS demo + Nike shoe page */
+
+/* Paragraph 3: purple underline */
+.external-paragraph {
+  color: purple;
+  text-decoration: underline;
+}
+
+/* Highlight 3: blue (you can change to any color) */
+.external-highlight {
+  color: blue;
+}
+
+/* Building 3: gray */
+.external-building {
+  color: gray;
+}
